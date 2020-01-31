@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libglutInterface.so -o libglutInterface.so CMakeFiles/glutInterface.dir/glutWindow.cpp.o /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libGLU.so 
